@@ -21,9 +21,9 @@ Este é o teste de WEB que esta automatizado
    
  ## Cenario de teste
  **diogenesjardim
-* Feature:  Web Site
+## Feature:  Web Site
 
-## Como usuario, desejo ultilizar o Site
+   Como usuario, desejo ultilizar o Site
    Para realizar compras e consultas
 
 ## Scenario: Realizar compras no site
