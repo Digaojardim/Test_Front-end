@@ -16,13 +16,10 @@ Este é o teste de WEB que esta automatizado
   * npm init --yes
   * npm install -D cypress@4.12.1
   
-
-
  ## Execução do Teste
    brir o cypress no terminal, "npx cypress open"
    
+   
 
 
-## Obs: :exclamation:
-Algumas requisições deram erros nos estatusCode
-* **DeletarSimulacaoTest** era pra retornar 204, retorno 200
+
