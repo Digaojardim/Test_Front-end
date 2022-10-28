@@ -1,0 +1,7 @@
+{
+     
+     "testFiles": "**/*.feature",
+     "baseUrl": "http://automationpractice.com/index.php"
+                                            
+    
+}
