@@ -23,10 +23,10 @@ Este é o teste de WEB que esta automatizado
  **diogenesjardim
 * Feature:  Web Site
 
-* Como usuario, desejo altilizar o Site
+## Como usuario, desejo altilizar o Site
 * Para realizar compras e consultas
 
-* Scenario: Realizar compras no site
+## Scenario: Realizar compras no site
  *  Given que eu acesse o site
  *  And realaizar login com senha valida
  *  And realizar uma busca na aba pesquisa
