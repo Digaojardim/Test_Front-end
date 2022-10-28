@@ -6,27 +6,22 @@ Este é o teste de WEB que esta automatizado
 
 ##  Requisitos :book:
 
- * BDD:Cumcumber
- * Cypress
- 
- 
- 
-
+ * Escrita dos cenarios com BDD: Cucumber
+ * Linguagem de programação: Cypress
 
  ## Como executar a aplicação :arrow_forward:
- A aplicação estará disponível através da URL [http://localhost:8888]
+  * Visual estudio code istalado
+  * abri um termenal no, visual code
+  * istalar o cypress 
+  * npm init --yes
+  * npm install -D cypress@4.12.1
+  
+
 
  ## Execução do Teste
- Para executar o teste completo, **Suite.classe**
+   brir o cypress no terminal, "npx cypress open"
+   
 
-* @RunWith(org.junit.runners.Suite.class)
-* @SuiteClasses({
-	* RestricaoTest.class,
-	* CadastroTest.class,
-	* AtualizaumaSimulaçãoTest.class,
-	* NovaSimulacaoTest.class,
-	* SimulacaoTest.class,
-	* DeletarSimulacaoTest.class,
 
 ## Obs: :exclamation:
 Algumas requisições deram erros nos estatusCode
