@@ -20,7 +20,7 @@ Este é o teste de WEB que esta automatizado
    brir o cypress no terminal, "npx cypress open"
    
  ## Cenario de teste
- **Autor:diogenesjardim
+ **Autor:diogenesjardim**
 ## Feature:  Web Site
 
    Como usuario, desejo ultilizar o Site
