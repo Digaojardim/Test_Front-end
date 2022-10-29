@@ -1,7 +1,7 @@
 ## diogenesjardim
 Feature:  Web Site
 
-Como usuario, desejo altilizar o Site
+Como usuario, desejo ultilizar o Site
 Para realizar compras e consultas
 
 Scenario: Realizar compras no site
